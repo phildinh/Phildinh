@@ -11,7 +11,7 @@ I am passionate about data insights from Sydney, New South Wales.
 
 
 ## 🤝 Connect with me at:
-- [LinkedIn]([Your-LinkedIn-URL](https://www.linkedin.com/in/thanhdinha9/))
+- [LinkedIn](https://www.linkedin.com/in/thanhdinha9/)
 
 ## 🛠️ Languages and Tools:
 <img src="https://github.com/phildinh/Phildinh/assets/169891895/58273a30-d73a-4b62-baf0-b9e1aa208c20" width="70">
