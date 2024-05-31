@@ -3,9 +3,9 @@
 I am passionate about data insights from Sydney, New South Wales.
 
 ## 📊 Analytical Skills and Experience:
-- Google Analytics
-- Google Search Console
-- Marketing Channel Analytics (Facebook, Instagram)
+- Customer Insights Analyst
+- Marketing Data Analyst
+- Retail Data Analyst
 - Data Cleaning
 - Data Visualization
 
