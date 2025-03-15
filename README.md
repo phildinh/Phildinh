@@ -3,11 +3,12 @@
 I am passionate about data insights from Sydney, New South Wales.
 
 ## 📊 Analytical Skills and Experience:
-- Customer Insights Analyst
-- Marketing Data Analyst
-- Retail Data Analyst
-- Data Cleaning
-- Data Visualization
+- Advanced DAX & Data Storytelling in Power BI.
+- Advanced SQL, with a strong understanding of Data Warehouse structures, architecture, and ETL processes.
+- Proficient in Data Cleansing using Excel, Power Query, SQL, and Python.
+- Solid foundation in Statistics for Data Analysis and Mathematics for Machine Learning.
+- Domain expertise in Supply Chain, Marketing, and Finance. 🚀
+
 
 
 ## 🤝 Connect with me at:
