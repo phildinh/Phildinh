@@ -3,7 +3,7 @@
 I am passionate about data insights from Sydney, New South Wales.
 
 ## 📊 Analytical Skills and Experience:
-- Advanced DAX & Data Storytelling in Power BI.
+- Advanced DAX & Data Storytelling in Power BI and Tableau.
 - Advanced SQL, with a strong understanding of Data Warehouse structures, architecture, and ETL processes.
 - Proficient in Data Cleansing using Excel, Power Query, SQL, and Python.
 - Solid foundation in Statistics for Data Analysis and Mathematics for Machine Learning.
