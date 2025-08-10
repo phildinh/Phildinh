@@ -1,13 +1,19 @@
-# Welcome to My GitHub ! 👋
+# Welcome to My GitHub! 👋
 
-I am passionate about data insights from Sydney, New South Wales.
+Hi, I’m a **data enthusiast** based in Sydney, NSW.  
+Without a formal university background in data, I began my journey into **data analytics** in 2024 — and within just one year, I landed my first role in the field.  
+
+I’m proof that with **curiosity, consistency, and self-belief**, you can transform your career path.  
+If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
+
 
 ## 📊 Analytical Skills and Experience:
-- Proficient in DAX (including time intelligence calculations), Data Storytelling (color theory, chart selection, and narrative building), Power Query for back-end data transformation, and Power BI Service for dashboard automation and publishing.
-- Skilled in SQL for data uploads, optimizing workflows through advanced queries, and with strong knowledge of data warehouse structures, constraints, and architecture.
-- Advanced Excel user, experienced in automating tasks with VBA macros and leveraging complex formulas to streamline daily operations.
-- Strong foundation in Statistics and Mathematics for Data Analysis and Data Science, particularly in Machine Learning algorithms such as Linear Regression, Decision Trees, and Random Forest for forecasting.
-- Domain expertise in Supply Chain Management (inventory, forecasting, demand planning, retail), Marketing, and Finance. 🚀
+- **Proficient in `DAX`** (including *time intelligence calculations*), **Data Storytelling** (*color theory*, *chart selection*, and *narrative building*), `Power Query` for back-end data transformation, and **Power BI Service** for dashboard automation & publishing.  
+- **Skilled in `SQL`** for data uploads, semi-automating workflows through *advanced queries*, with a solid understanding of **data warehouse** structures, constraints, and architecture.  
+- **Advanced `Excel` user**, experienced in automating tasks with `VBA` macros and leveraging complex formulas to streamline daily operations.  
+- **Strong foundation in Statistics & Mathematics** for Data Analysis and Data Science — including Machine Learning algorithms such as *Linear Regression*, *Decision Trees*, and *Random Forest* for forecasting.  
+- **Domain expertise** in **Supply Chain Management** (*inventory*, *forecasting*, *demand planning*, *retail*), **Marketing**, and **Finance**. 🚀
+
 
 
 
