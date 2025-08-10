@@ -1,18 +1,18 @@
-# Welcome to My GitHub Channel! 👋
+# Welcome to My GitHub ! 👋
 
 I am passionate about data insights from Sydney, New South Wales.
 
 ## 📊 Analytical Skills and Experience:
-- Advanced DAX & Data Storytelling in Power BI and Tableau.
-- Advanced SQL, with a strong understanding of Data Warehouse structures, architecture, and ETL processes.
-- Proficient in Data Cleansing using Excel, Power Query, SQL, and Python.
-- Solid foundation in Statistics for Data Analysis and Mathematics for Machine Learning.
-- Domain expertise in Supply Chain, Marketing, and Finance. 🚀
+- Proficient in DAX (including time intelligence calculations), Data Storytelling (color theory, chart selection, and narrative building), Power Query for back-end data transformation, and Power BI Service for dashboard automation and publishing.
+- Skilled in SQL for data uploads, optimizing workflows through advanced queries, and with strong knowledge of data warehouse structures, constraints, and architecture.
+- Advanced Excel user, experienced in automating tasks with VBA macros and leveraging complex formulas to streamline daily operations.
+- Strong foundation in Statistics and Mathematics for Data Analysis and Data Science, particularly in Machine Learning algorithms such as Linear Regression, Decision Trees, and Random Forest for forecasting.
+- Domain expertise in Supply Chain Management (inventory, forecasting, demand planning, retail), Marketing, and Finance. 🚀
 
 
 
 ## 🤝 Connect with me at:
-- [LinkedIn](https://www.linkedin.com/in/thanhdinha9/)
+- [LinkedIn](https://www.linkedin.com/in/phil-dinh)
 
 ## 🛠️ Languages and Tools:
 <img src="https://github.com/phildinh/Phildinh/assets/169891895/58273a30-d73a-4b62-baf0-b9e1aa208c20" width="90">
