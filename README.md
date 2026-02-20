@@ -21,10 +21,19 @@ If I can do it, **you can too** — keep learning, keep building, and keep grind
 - [LinkedIn](https://www.linkedin.com/in/phil-dinh)
 
 ## 🛠️ Languages and Tools:
-<img src="https://github.com/phildinh/Phildinh/assets/169891895/58273a30-d73a-4b62-baf0-b9e1aa208c20" width="90">
-<img src="https://github.com/phildinh/Phildinh/assets/169891895/b1e94402-7954-4c7c-98db-05c3f59dae4e" width="60">
-<img src="https://github.com/phildinh/Phildinh/assets/169891895/d1925e8e-c477-4e7c-a7a4-f3c9b97e037a" width="90">
-<img src="https://github.com/phildinh/Phildinh/assets/169891895/92844afd-d6b1-4715-8c73-e4ece0e4c4a9" width="80">
+<img src="https://github.com/user-attachments/assets/45ae58b7-0115-4395-af6f-2a5561317e3e" width="90"/>
 <img src="https://github.com/phildinh/Phildinh/assets/169891895/bf5d3b67-3215-4a3d-bc9a-299268902dda" width="60">
+<img src="https://github.com/user-attachments/assets/c7ff3370-c973-4515-9fc0-e296f0c7444f" width="90"/>
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/92844afd-d6b1-4715-8c73-e4ece0e4c4a9" width="80">
+<img src="https://github.com/phildinh/Phildinh/assets/169891895/d1925e8e-c477-4e7c-a7a4-f3c9b97e037a" width="90">
 <img src="https://github.com/phildinh/Phildinh/assets/169891895/af97e246-3b4c-40cc-aaf8-81723ea0ea67" width="150">
+<img src="https://github.com/user-attachments/assets/69396856-d5ae-4756-92da-75d2013a42b5" width="60"/>
+<img src="https://github.com/user-attachments/assets/d867d4b8-f733-4638-8c99-67dc34ff16a0" width="120"/>
+<img src="https://github.com/user-attachments/assets/3b448909-dc0a-43bf-837f-91609b613e85" width="150"/>
+<img src="https://github.com/user-attachments/assets/627edbb4-925e-4f8a-9e13-7b01c93d0e37" width="60"/>
+<img src="https://github.com/user-attachments/assets/56138c8e-998e-4fcf-8532-7ab6c8693d67" width="60"/>
+<img src="https://github.com/user-attachments/assets/c5670903-4e7e-4eba-a0ef-637ef18b1fdd" width="150"/>
+
+
+
 
