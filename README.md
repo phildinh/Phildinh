@@ -13,10 +13,10 @@ If I can do it, **you can too** — keep learning, keep building, and keep grind
 ## 📊 Analytical & Data Engineering Skills:
 
 - **Skilled in `Python` & `PySpark`** for building scalable ETL/ELT pipelines, API ingestion, JSON processing, and distributed data transformations.  
-- **Experienced with `Databricks` & `Azure`** (Data Lake, Azure SQL) for implementing Lakehouse architecture and Medallion (Bronze–Silver–Gold) workflows.  
+- **Experienced with `Databricks` & `Azure` & `Microsoft Fabric`** (Azure Data Lake, Azure Data Factory, Azure SQL, Azure Synapse, Delta Lake) for implementing Lakehouse architecture and Medallion (Bronze–Silver–Gold) workflows.  
 - **Skilled in `Apache Airflow`** for DAG design, scheduling, orchestration, monitoring, and pipeline automation.  
 - **Skilled in `SQL`** for advanced transformations and workflow automation, with strong knowledge of data warehouse architecture, dimensional modeling (Star Schema), and SCD Type 2.  
-- **Skilled in `DAX`**, Data Storytelling, `Power Query`, and Power BI Service for semantic modeling and dashboard automation.  
+- **Skilled in `DAX`**, Data Storytelling, `Power Query`, and `Power BI` for semantic modeling and dashboard automation.  
 - **Advanced `Excel` user**, experienced in `VBA` automation and complex formula development.  
 - **Strong foundation in Statistics & Machine Learning**, including Linear Regression, Decision Trees, and Random Forest.  
 - **Domain expertise** in Supply Chain (inventory, forecasting, demand planning, retail), Marketing, and Finance. 🚀
