@@ -6,6 +6,9 @@ Without a formal university background in data, I began my journey into **data a
 I’m proof that with **curiosity, consistency, and self-belief**, you can transform your career path.  
 If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
 
+<img src="https://github.com/user-attachments/assets/5549df7f-8c38-4c2a-9ecc-598a6eb6230d" width="200" />
+<img src="https://github.com/user-attachments/assets/cf728de7-c221-4e04-b6dc-7fcf35798598" width="200" />
+<img src="https://github.com/user-attachments/assets/cf728de7-c221-4e04-b6dc-7fcf35798598" width="200" />
 
 ## 📊 Analytical & Data Engineering Skills:
 
