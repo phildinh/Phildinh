@@ -7,13 +7,16 @@ I’m proof that with **curiosity, consistency, and self-belief**, you can trans
 If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
 
 
-## 📊 Analytical Skills and Experience:
-- **Proficient in `DAX`** (including *time intelligence calculations*), **Data Storytelling** (*color theory*, *chart selection*, and *narrative building*), `Power Query` for back-end data transformation, and **Power BI Service** for dashboard automation & publishing.  
-- **Skilled in `SQL`** for data uploads, semi-automating workflows through *advanced queries*, with a solid understanding of **data warehouse** structures, constraints, and architecture.  
-- **Advanced `Excel` user**, experienced in automating tasks with `VBA` macros and leveraging complex formulas to streamline daily operations.  
-- **Strong foundation in Statistics & Mathematics** for Data Analysis and Data Science — including Machine Learning algorithms such as *Linear Regression*, *Decision Trees*, and *Random Forest* for forecasting.  
-- **Domain expertise** in **Supply Chain Management** (*inventory*, *forecasting*, *demand planning*, *retail*), **Marketing**, and **Finance**. 🚀
+## 📊 Analytical & Data Engineering Skills:
 
+- **Skilled in `Python` & `PySpark`** for building scalable ETL/ELT pipelines, API ingestion, JSON processing, and distributed data transformations.  
+- **Experienced with `Databricks` & `Azure`** (Data Lake, Azure SQL) for implementing Lakehouse architecture and Medallion (Bronze–Silver–Gold) workflows.  
+- **Skilled in `Apache Airflow`** for DAG design, scheduling, orchestration, monitoring, and pipeline automation.  
+- **Skilled in `SQL`** for advanced transformations and workflow automation, with strong knowledge of data warehouse architecture, dimensional modeling (Star Schema), and SCD Type 2.  
+- **Skilled in `DAX`**, Data Storytelling, `Power Query`, and Power BI Service for semantic modeling and dashboard automation.  
+- **Advanced `Excel` user**, experienced in `VBA` automation and complex formula development.  
+- **Strong foundation in Statistics & Machine Learning**, including Linear Regression, Decision Trees, and Random Forest.  
+- **Domain expertise** in Supply Chain (inventory, forecasting, demand planning, retail), Marketing, and Finance. 🚀
 
 
 
