@@ -1,7 +1,8 @@
 # Welcome to My GitHub! 👋
 
-Hi, I’m a **data enthusiast** based in Sydney, NSW.  
-Without a formal university background in data, I began my journey into **data analytics** in 2024 — and within just one year, I landed my first role in the field.  
+Hi, I’m a **data engineering** based in Sydney, NSW.  
+Without a formal university background in data, I began my journey into **data analytics** in 2024 and landed my first role in the field after one year.
+I bring my domain knowledge, understanding business workflow, process and data flow business combine with software engineering thought (build and optimize things properly) to shape my working style and mindset.
 
 I’m proof that with **curiosity, consistency, and self-belief**, you can transform your career path.  
 If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
