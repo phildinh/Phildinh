@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
 
 Hi and Welcome!
-I’m a **data engineering | data analyst** with 3 years of experiences across supplychain, marketing and education. I am confident with technical tools from tradition to modern (on premises to cloud platform), I love working and building relationship with stakeholders (negotiate when things are proper).
+I’m a **data engineering & data analyst** with 3+ years building data systems across supply chain, marketing, and education. I design end-to-end pipelines from ingestion through transformation to analytics and love solving real business problems with clean, testable code.
 
 I’m proof that with **curiosity, consistency, and self-belief**, you can transform your career path.  
 If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
