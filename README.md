@@ -15,12 +15,19 @@ If I can do it, **you can too** — keep learning, keep building, and keep grind
 ## ## 📊 Analytical & Data Engineering Skills
 
 **Data Engineering:** Python (ETL/ELT, API ingestion, 43+ tests) · SQL (window functions, CTEs, SCD Type 2, Star Schema) · Apache Airflow (DAG design, scheduling, Docker orchestration) · dbt (incremental models, medallion transformations, SCD snapshots)
+
 **Cloud Platforms:** Snowflake (warehouse architecture, COPY INTO, cost optimization) · Azure (ADLS Gen2, Data Factory, Synapse, Delta Lake) · Databricks (PySpark, Delta Lake, distributed transformations) · AWS (S3, CloudWatch)
+
 **Data Processing:** PySpark (distributed transformations, partitioning) · pandas (data wrangling, performance profiling) · Apache Kafka (CDC via Debezium, event streaming)
+
 **Analytics & BI:** Power BI (semantic modeling, DAX, dashboards) · Power Query (ETL in Excel) · Advanced Excel (VBA, complex formulas, pivot tables)
+
 **Data Quality & Testing:** pytest (unit testing, fixtures) · dbt tests (unique, not-null, relationships, custom SQL) · Great Expectations (planned)
+
 **Version Control & CI/CD:** Git/GitHub (collaborative development, pull requests) · GitHub Actions (automated testing, linting, deployment) · Docker (containerization, reproducible environments)
+
 **Domain Expertise:** Supply Chain & demand forecasting (4+ years FMCG retail) · Retail analytics (sales, inventory, SKU optimization) · Finance & cost allocation
+
 **Certifications:** DP-700, DP-600, AZ-900, Databricks DE Associate, Snowflake, dbt Fundamentals, Astronomer Airflow Fundamentals
 
 
