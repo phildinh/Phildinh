@@ -1,35 +1,51 @@
-# Welcome to My GitHub! 👋
+# Hi, I'm Phil 👋
 
-Hi and Welcome!
-I’m a **data engineering & data analyst** with 3+ years building data systems across supply chain, marketing, and education. I design end-to-end pipelines from ingestion through transformation to analytics and love solving real business problems with clean, testable code.
+Data Engineer & Analyst with 3+ years building end-to-end data systems across
+supply chain, marketing, and education, from pipeline ingestion to analytics delivery.
 
-I’m proof that with **curiosity, consistency, and self-belief**, you can transform your career path.  
-If I can do it, **you can too** — keep learning, keep building, and keep grinding. 🚀
-
+I don't just build pipelines. I design data solutions from the ground up:
+mapping entities, attributes, and relationships, modelling databases in 3NF with
+defined data types, column constraints, and table relationships following business
+rules, then optimising from the engine level (disk, RAM, VertiPaq, DAX) to ensure
+data accuracy, integrity, and query performance.
 
 <img src="https://github.com/user-attachments/assets/514d5c09-e2e5-4e44-aa84-11c391a5516f" width="200"/>
 <img src="https://github.com/user-attachments/assets/c24bbfa2-df33-44be-9cf6-acbc98e5cdec" width="210"/>
 <img src="https://github.com/user-attachments/assets/518fc902-d8fd-4887-a796-043acdd13304" width="200"/>
 
 
-## ## 📊 Analytical & Data Engineering Skills
+## 🎯 How I Deliver Solutions
 
-**Data Engineering:** Python (ETL/ELT, API ingestion, 43+ tests) · SQL (window functions, CTEs, SCD Type 2, Star Schema) · Apache Airflow (DAG design, scheduling, Docker orchestration) · dbt (incremental models, medallion transformations, SCD snapshots)
+**Data Modelling:** I start from the business problem, mapping entities, attributes,
+and relationships before writing a single line of code. Databases are designed in 3rd
+normal form with defined data types, column constraints, indexing on key columns, and
+table relationships that enforce business rules.
 
-**Cloud Platforms:** Snowflake (warehouse architecture, COPY INTO, cost optimization) · Azure (ADLS Gen2, Data Factory, Synapse, Delta Lake) · Databricks (PySpark, Delta Lake, distributed transformations) · AWS (S3, CloudWatch)
+**Pipeline Design:** End-to-end pipelines built with medallion architecture (Bronze →
+Silver → Gold), SCD Type 2 for historical tracking, and incremental load strategies
+in dbt to ensure clean, reliable data at every layer.
 
-**Data Processing:** PySpark (distributed transformations, partitioning) · pandas (data wrangling, performance profiling) · Apache Kafka (CDC via Debezium, event streaming)
+**Analytics & BI:** Power BI reports optimised from the engine level by avoiding
+calculated columns in favour of Power Query transformations, writing efficient DAX
+measures, and structuring semantic models on top of a clean star schema to maximise
+VertiPaq compression and visual refresh speed.
 
-**Analytics & BI:** Power BI (semantic modeling, DAX, dashboards) · Power Query (ETL in Excel) · Advanced Excel (VBA, complex formulas, pivot tables)
+**Performance Optimisation:** Every design decision traces back to how data moves
+from disk to RAM to CPU, whether that is choosing the right storage format, partition
+strategy, or DAX pattern for the use case.
 
-**Data Quality & Testing:** pytest (unit testing, fixtures) · dbt tests (unique, not-null, relationships, custom SQL) · Great Expectations (planned)
+## 🛠️ What I Work With
 
-**Version Control & CI/CD:** Git/GitHub (collaborative development, pull requests) · GitHub Actions (automated testing, linting, deployment) · Docker (containerization, reproducible environments)
+**Engineering:** Python · SQL · Apache Airflow · dbt · Apache Kafka (CDC via Debezium)
 
-**Domain Expertise:** Supply Chain & demand forecasting (4+ years FMCG retail) · Retail analytics (sales, inventory, SKU optimization) · Finance & cost allocation
+**Cloud:** AWS · Azure (ADLS Gen2, Data Factory, Synapse) · Snowflake · Databricks · Microsoft Fabric
 
-**Certifications:** DP-700, DP-600, AZ-900, Databricks DE Associate, Snowflake, dbt Fundamentals, Astronomer Airflow Fundamentals
+**Analytics & BI:** Power BI (DAX, semantic modelling) · Power Query · Excel (VBA)
 
+**Quality & CI/CD:** pytest · dbt tests · GitHub Actions · Docker
+
+## 📜 Certifications
+DP-700 · DP-600 · AZ-900 · Databricks DE Associate · Snowflake · dbt Fundamentals · Astronomer Airflow
 
 ## 🤝 Connect with me at:
 - [LinkedIn](https://www.linkedin.com/in/phil-dinh)
